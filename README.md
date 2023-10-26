@@ -46,50 +46,50 @@
 
 All of our developers on our team have very unique skills and work hard on making the server better for everyone.
 
-Scrip Development:
-- [ SENIOR ] Capttech
-- Conroy
-- Brodie
-- Maxy
-- Xenvious
-- [ TRIAL ] Kelly Bean
+> [Scrip Development]
+>   - [ SENIOR ] Capttech
+>   - Conroy
+>   - Brodie
+>   - Maxy
+>   - Xenvious
+>   - [ TRIAL ] Kelly Bean
 
-Vehicle Development:
-- [ SENIOR ] John
-- Huey
-- Jonni
-- Snow
+> [Vehicle Development]
+>   - [ SENIOR ] John
+>   - Huey
+>   - Jonni
+>   - Snow
 
-Clothing Development:
-- Radien
-- Riley
-- Winfrey
+> [Clothing Development]
+>   - Radien
+>   - Riley
+>   - Winfrey
 
-Maps:
-- [ SENIOR ] Capttech
-- [ TRIAL ] Snow
+> [Maps Development]
+>   - [ SENIOR ] Capttech
+>   - [ TRIAL ] Snow
 
-Loa:
-- None
+> [Leave Of Absence]
+>   - None
 
 <p align="right">(<a href="#meet-the-team">back to top</a>)</p>
 
 ## Bug Reports
 
-This is about all the information you as a developer need to know about handling bug reports
+**This is about all the information you as a developer need to know about handling bug reports**
 
-- Reporting a exploit
-    - When a exploit or something that the entire community does not need to know about please report that in the ⁠found-bugs-exploits channel.
+> [Reporting a exploit]
+>    - When a exploit or something that the entire community does not need to know about please report that in the ⁠found-bugs-exploits channel.
 
-- Server Reported Errors
-    - We have a error tracker in the server that reports all client errors to the discord. These messages will be coming in the ⁠development-errors channel.
+> [Server Reported Errors]
+>    - We have a error tracker in the server that reports all client errors to the discord. These messages will be coming in the ⁠development-errors channel.
 
-- Professionalism
-    - When you are handling a bug report be professional and handle yourself like you would like to be treated.
+> [Professionalism]
+>    - When you are handling a bug report be professional and handle yourself like you would like to be treated.
 There are times where people report things that are not bug simply because they do not understand how to work the script.
 
-- Tags
-    - When you take a bug report and want to work on the issue right click on the report and select the | In Progress | tag
+> [Tags]
+>    - When you take a bug report and want to work on the issue right click on the report and select the | In Progress | tag
 When you complete the bug report and it took some kind of server side change tag the bug report with the tag | Fixed |
 When there is a bug report that is something that they either didn't understand or something that did not take a server change to fix please put the | finished | tag
 
@@ -97,19 +97,19 @@ When there is a bug report that is something that they either didn't understand 
 
 ## Development Rewards
 
-We at Notorious Roleplay would like to thank all our developers for helping make our server great!
+**We at Notorious Roleplay would like to thank all our developers for helping make our server great!**
 
-- Development Car
-    - We will be giving all developers that have been in the development team for over 3 months and that has activity with Github commits over that 3 month period.
+> [Development Car]
+>    - We will be giving all developers that have been in the development team for over 3 months and that has activity with Github commits over that 3 month period.
 
-- Development Giveaways
-    - There will be a giveaway for only developers every 1st of the moth with a additional giveaway in the middle of that month. This giveaway will be anything from a really nice item in city to a super
+> [Development Giveaways]
+>    - There will be a giveaway for only developers every 1st of the moth with a additional giveaway in the middle of that month. This giveaway will be anything from a really nice item in city to a super
 
 <p align="right">(<a href="#meet-the-team">back to top</a>)</p>
 
 ## Required Programs
 
-There are a few software programs that are required to work with the resources that we have.
+**There are a few software programs that are required to work with the resources that we have.**
 - [OpenIV](https://openiv.com/)
 - [Visual Studio Code](https://code.visualstudio.com/download)
 
@@ -117,102 +117,102 @@ There are a few software programs that are required to work with the resources t
 
 ## Team Resources
 
-This is a list of development resources everyone might find useful while developing for FiveM.
+**This is a list of development resources everyone might find useful while developing for FiveM.**
 
-- Visual Studio Code
-    - [Download](https://code.visualstudio.com/download)
+> [Visual Studio Code]
+>    - [Download](https://code.visualstudio.com/download)
 
-- Visual Studio Code Extensions ( Script Front End )
-    - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
-    - [Colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize)
-    - [HTML CSS](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
+> [Visual Studio Code Extensions ( Script Front End )]
+>    - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+>    - [Colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize)
+>    - [HTML CSS](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
 
-- Visual Studio Code Extensions ( Script Back End )
-    - [FiveM/ RedM](https://marketplace.visualstudio.com/items?itemName=overextended.cfxlua-vscode)
-    - [FiveM Natives](https://marketplace.visualstudio.com/items?itemName=fivem-vscode.fivem-vscode)
-    - [Database](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-es-client2)
-    - [LUA](https://marketplace.visualstudio.com/items?itemName=keyring.Lua)
+> [Visual Studio Code Extensions ( Script Back End )]
+>    - [FiveM/ RedM](https://marketplace.visualstudio.com/items?itemName=overextended.cfxlua-vscode)
+>    - [FiveM Natives](https://marketplace.visualstudio.com/items?itemName=fivem-vscode.fivem-vscode)
+>    - [Database](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-es-client2)
+>    - [LUA](https://marketplace.visualstudio.com/items?itemName=keyring.Lua)
 
-- General FiveM Useful Links
-    - [FiveM Server](https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/)
-    - [VMenu](https://github.com/TomGrobbe/vMenu/releases)
-    - [KeyMaster](https://keymaster.fivem.net/)
-    - [Full Guide on how to setup your server](https://docs.fivem.net/docs/server-manual/setting-up-a-server/)
+> [General FiveM Useful Links]
+>    - [FiveM Server](https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/)
+>    - [VMenu](https://github.com/TomGrobbe/vMenu/releases)
+>    - [KeyMaster](https://keymaster.fivem.net/)
+>    - [Full Guide on how to setup your server](https://docs.fivem.net/docs/server-manual/setting-up-a-server/)
 
-- Vehicle Development
-    - [Vehicle List (Locals)](https://docs.fivem.net/docs/game-references/vehicle-models/)
-    - [OpenIV](https://openiv.com/)
+> [Vehicle Development]
+>    - [Vehicle List (Locals)](https://docs.fivem.net/docs/game-references/vehicle-models/)
+>    - [OpenIV](https://openiv.com/)
 
-- Clothing Development
-    - You will need a server license to have a person development server.
-    - Talk to Capttech to get a license key
-    - [OpenIV](https://openiv.com/)
+> [Clothing Development]
+>    - You will need a server license to have a person development server.
+>    - Talk to Capttech to get a license key
+>    - [OpenIV](https://openiv.com/)
 
-- Map Development
-    - [OpenIV](https://openiv.com/)
+> [Map Development]
+>    - [OpenIV](https://openiv.com/)
 
 <p align="right">(<a href="#meet-the-team">back to top</a>)</p>
 
 ## Community Requests and Tebex
 
-All import or added items into the server must have management permission to push live. When you are getting a request worked out please meet the requirements below before requesting permission. All requests need to be tested in either the primary development server or a personal server.
+**All import or added items into the server must have management permission to push live. When you are getting a request worked out please meet the requirements below before requesting permission. All requests need to be tested in either the primary development server or a personal server.**
 
-- Custom Police Vehicles ( Tebex )
-    - Under 300K poly count
-    - Look road worth if its going to be a daily use vehicle
-    - Have working tail lights and head lights
-    - Not be bullet proof
-    - No Offensive language
-    - No our of city terms ( Discord Name, Server Name, etc )
-    - All textures need to be under 2K pixles
-    - Working emergency lights
-    - Livery on the car to match the rest of the fleet
-    - The player must have the requirements in city to drive it | Ex: Speed Enforcement
-    - Vehicles can be Red and Blue or All Blue
-    - Match the department that person is in
+> [Custom Police Vehicles ( Tebex )]
+>    - Under 300K poly count
+>    - Look road worth if its going to be a daily use vehicle
+>    - Have working tail lights and head lights
+>    - Not be bullet proof
+>    - No Offensive language
+>    - No our of city terms ( Discord Name, Server Name, etc )
+>    - All textures need to be under 2K pixles
+>    - Working emergency lights
+>    - Livery on the car to match the rest of the fleet
+>    - The player must have the requirements in city to drive it | Ex: Speed Enforcement
+>    - Vehicles can be Red and Blue or All Blue
+>    - Match the department that person is in
 
-- Import Vehicle ( Tebex )
-    - Under 300K poly count
-    - Look road worth if its going to be a daily use vehicle
-    - Have working tail lights and head lights
-    - Not be bullet proof
-    - No Offensive language
-    - No our of city terms ( Discord Name, Server Name, etc )
-    - All textures need to be under 2K pixles
+> [Import Vehicle ( Tebex )]
+>    - Under 300K poly count
+>    - Look road worth if its going to be a daily use vehicle
+>    - Have working tail lights and head lights
+>    - Not be bullet proof
+>    - No Offensive language
+>    - No our of city terms ( Discord Name, Server Name, etc )
+>    - All textures need to be under 2K pixles
 
-- Import Vehicle ( Developed )
-    - Under 250K poly count
-    - Look road worth if its going to be a daily use vehicle
-    - Have working tail lights and head lights
-    - Not be bullet proof
-    - No Offensive language
-    - No our of city terms ( Discord Name, Server Name, etc )
-    - All textures need to be under 2K pixles
+> [Import Vehicle ( Developed )]
+>    - Under 250K poly count
+>    - Look road worth if its going to be a daily use vehicle
+>    - Have working tail lights and head lights
+>    - Not be bullet proof
+>    - No Offensive language
+>    - No our of city terms ( Discord Name, Server Name, etc )
+>    - All textures need to be under 2K pixles
 
-- Import Clothing ( Tebex / Developed )
-    - Under 50K Poly Count
-    - Look like a clothing item would in real life
-    - No Offensive language
-    - No our of city terms ( Discord Name, Server Name, etc )
-    - All textures need to be under 3K pixels
+> [Import Clothing ( Tebex / Developed )]
+>    - Under 50K Poly Count
+>    - Look like a clothing item would in real life
+>    - No Offensive language
+>    - No our of city terms ( Discord Name, Server Name, etc )
+>    - All textures need to be under 3K pixels
 
-- New Script ( Request / Developed )
-    - Runs under 1ms
-    - Cleans up after it self / No left props or entities
-    - No debug messages in the F8 console
-    - No Offensive language
-    - No our of city terms ( Discord Name, Server Name, etc )
+> [New Script ( Request / Developed )]
+>    - Runs under 1ms
+>    - Cleans up after it self / No left props or entities
+>    - No debug messages in the F8 console
+>    - No Offensive language
+>    - No our of city terms ( Discord Name, Server Name, etc )
 
-- New Maps / Map Edits
-    - No Offensive language
-    - No our of city terms ( Discord Name, Server Name, etc )
-    - All textures need to be under 2K pixles
+> [New Maps / Map Edits]
+>    - No Offensive language
+>    - No our of city terms ( Discord Name, Server Name, etc )
+>    - All textures need to be under 2K pixles
 
 <p align="right">(<a href="#meet-the-team">back to top</a>)</p>
 
 ## Github
 
-Some people will have access to the Github pull commands. Do NOT pull anything that has not been approved by someone in management. This is for any resource or any item, even if it is fixing a bug in the server it will still need management approval.
+**Some people will have access to the Github pull commands. Do NOT pull anything that has not been approved by someone in management. This is for any resource or any item, even if it is fixing a bug in the server it will still need management approval.**
 
 - Script Development
     - Do not push anything directly to the production branch.
