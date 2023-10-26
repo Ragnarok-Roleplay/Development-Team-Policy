@@ -72,7 +72,7 @@ Maps:
 Loa:
 - None
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#meet-the-team">back to top</a>)</p>
 
 ## Bug Reports
 
@@ -93,7 +93,7 @@ There are times where people report things that are not bug simply because they 
 When you complete the bug report and it took some kind of server side change tag the bug report with the tag | Fixed |
 When there is a bug report that is something that they either didn't understand or something that did not take a server change to fix please put the | finished | tag
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#meet-the-team">back to top</a>)</p>
 
 ## Development Rewards
 
@@ -105,7 +105,7 @@ We at Notorious Roleplay would like to thank all our developers for helping make
 - Development Giveaways
     - There will be a giveaway for only developers every 1st of the moth with a additional giveaway in the middle of that month. This giveaway will be anything from a really nice item in city to a super
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#meet-the-team">back to top</a>)</p>
 
 ## Required Programs
 
@@ -113,7 +113,7 @@ There are a few software programs that are required to work with the resources t
 - [OpenIV](https://openiv.com/)
 - [Visual Studio Code](https://code.visualstudio.com/download)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#meet-the-team">back to top</a>)</p>
 
 ## Team Resources
 
@@ -151,7 +151,7 @@ This is a list of development resources everyone might find useful while develop
 - Map Development
     - [OpenIV](https://openiv.com/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#meet-the-team">back to top</a>)</p>
 
 ## Community Requests and Tebex
 
@@ -208,7 +208,7 @@ All import or added items into the server must have management permission to pus
     - No our of city terms ( Discord Name, Server Name, etc )
     - All textures need to be under 2K pixles
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#meet-the-team">back to top</a>)</p>
 
 ## Github
 
@@ -250,7 +250,7 @@ Some people will have access to the Github pull commands. Do NOT pull anything t
     - You have to be with the development for over 2 months and show activity with our community.
     - When you are granted access the dev server only has access to development environment stuff
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#meet-the-team">back to top</a>)</p>
 
 ## Change Logs
 
@@ -276,7 +276,7 @@ Ex: Version 3.5.1 would update to 3.5.2
   - [Icon](https://imgur.com/nL2vIHm.png)
   - Color Code: 20ff00
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#meet-the-team">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
