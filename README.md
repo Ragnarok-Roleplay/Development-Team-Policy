@@ -47,30 +47,42 @@
 All of our developers on our team have very unique skills and work hard on making the server better for everyone.
 
 > Scrip Development
->   - [ SENIOR ] Capttech
->   - Conroy
->   - Brodie
->   - Maxy
->   - Xenvious
->   - [ TRIAL ] Kelly
+>   - ***SENIOR*** | Capttech
+>   - ***TEAM MEMBER*** | Conroy
+>   - ***TEAM MEMBER*** | Brodie
+>   - ***TEAM MEMBER*** | Maxy
+>   - ***TEAM MEMBER*** | Xenvious
+>   - ***TRIAL*** | Kelly
 
 > Vehicle Development
->   - [ SENIOR ] John
->   - Huey
->   - Jonni
->   - Snow
+>   - ***SENIOR*** | John
+>   - ***TEAM MEMBER*** | Huey
+>   - ***TEAM MEMBER*** | Jonni
+>   - ***TEAM MEMBER*** | Snow
 
 > Clothing Development
->   - Radien
->   - Riley
->   - Winfrey
+>   - ***TEAM MEMBER*** | Radien
+>   - ***TEAM MEMBER*** | Riley
+>   - ***TEAM MEMBER*** | Winfrey
 
 > Maps Development
->   - [ SENIOR ] Capttech
->   - [ TRIAL ] Snow
+>   - ***SENIOR*** | Capttech
+>   - ***TRIAL*** | Snow
 
 > Leave Of Absence
 >   - None
+
+<p align="right">(<a href="#meet-the-team">back to top</a>)</p>
+
+## Production Updates
+> Update Schedule
+>   - Monday
+>   - Tuesday
+>   - Wednesday
+>   - Thursday
+>   - Friday
+>   - Saturday
+>   - Sunday
 
 <p align="right">(<a href="#meet-the-team">back to top</a>)</p>
 
