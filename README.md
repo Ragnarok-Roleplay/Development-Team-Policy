@@ -52,7 +52,7 @@ All of our developers on our team have very unique skills and work hard on makin
 >   - Brodie
 >   - Maxy
 >   - Xenvious
->   - [ TRIAL ] Kelly Bean
+>   - [ TRIAL ] Kelly
 
 > Vehicle Development
 >   - [ SENIOR ] John
