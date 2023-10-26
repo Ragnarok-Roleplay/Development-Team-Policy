@@ -268,22 +268,22 @@ When there is a bug report that is something that they either didn't understand 
 
 ***All members of the development team are welcome to post change logs. There are a few guide lines and procedures to follow while doing so. Those are all listed below.***
 
-> [Professionalism]
+> Professionalism
 >    - No offensive language
 >    - Must be detailed out in a professional manner
 
-> [Detail]
+> Detail
 >    - We do not want to to much detail in our change logs. Put enough information as needed but do not overshare the information.
 Ex: You updated the garage to now show who the vehicle was driven by last. The change would say something like, Updated garage system to share more information
 
-> [Version Number]
+> Version Number
 >    - You will be expected to keep up the version number. The only number you should be increasing is the third number.
 Ex: Version 3.5.1 would update to 3.5.2
 
-> [Format]
+> Format
 >    - Change logs are posted in a embed message. You can generate these embeds using a online editor. The only required information is the current version, a section title and a small message under that title. Use the below resources to create your embed. If you are having issue or do not understand the software please ask Capttech for help.
 
-> [Resources]
+> Resources
 >  - [Embed Creator](https://message.style/app/)
 >  - [Icon](https://imgur.com/nL2vIHm.png)
 >  - Color Code: 20ff00
