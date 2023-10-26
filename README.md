@@ -1,14 +1,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Capttech/CPT_Anticheat">
-    <img src="https://imgur.com/T97YTKa.png" alt="Logo" width="80" height="80">
+  <a href="">
+    <img src="https://imgur.com/nL2vIHm.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Notorious Development Team</h3>
 
   <p align="center">
-    Developing everything from Websites to FiveM resources
+    The best custom FiveM server development team!
     <br />
     <a href="https://github.com/orgs/Ragnarok-Roleplay/projects/2"><strong>Development Board �<strong></a>
     <br>
