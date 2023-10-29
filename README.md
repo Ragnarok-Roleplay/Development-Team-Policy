@@ -28,6 +28,14 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#meet-the-team">Meet The Team</a></li>
+    <li><a href="#nda-policy">NDA Policy</a></li>
+    <li><a href="#production-updates">Production Updates</a></li>
+    <li><a href="#training">Training</a></li>
+    <li><a href="#senior-developers">Senior Developers</a></li>
+    <li><a href="#encryption">Encryption</a></li>
+    <li><a href="#languages">Languages</a></li>
+    <li><a href="#activity-tracker">Activity Tracker</a></li>
+    <li><a href="#team-channels">Team Channels</a></li>
     <li><a href="#bug-reports">Bug Reports</a></li>
     <li><a href="#development-rewards">Development Rewards</a></li>
     <li><a href="#required-programs">Required Programs</a></li>
@@ -35,6 +43,7 @@
     <li><a href="#community-requests-and-tebex">Community Requests and Tebex</a></li>
     <li><a href="#github">Github</a></li>
     <li><a href="#change-logs">Change Logs</a></li>
+    <li><a href="#policy-updates">Policy Updates</a></li>
     <li><a href="#getting-started">Getting Started</a></li>
   </ol>
 </details>
