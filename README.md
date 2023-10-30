@@ -58,8 +58,8 @@ All of our developers on our team have very unique skills and work hard on makin
 > Scrip Development
 >   - ***LEAD*** | Capttech
 >   - ***SENIOR*** | Conroy
->   - ***JR*** | Xenvious
 >   - ***DEVELOPER*** | Maxy
+>   - ***JR*** | Xenvious
 >   - ***TRIAL*** | Kelly
 >   - ***TRIAL*** | Joe
 
