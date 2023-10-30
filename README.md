@@ -56,25 +56,25 @@
 All of our developers on our team have very unique skills and work hard on making the server better for everyone.
 
 > Scrip Development
->   - ***SENIOR*** | Capttech
->   - ***TEAM MEMBER*** | Conroy
->   - ***TEAM MEMBER*** | Maxy
->   - ***TEAM MEMBER*** | Xenvious
+>   - ***LEAD*** | Capttech
+>   - ***SENIOR*** | Conroy
+>   - ***JR*** | Xenvious
+>   - ***DEVELOPER*** | Maxy
 >   - ***TRIAL*** | Kelly
+>   - ***TRIAL*** | Joe
 
 > Vehicle Development
 >   - ***SENIOR*** | John
->   - ***TEAM MEMBER*** | Huey
->   - ***TEAM MEMBER*** | Jonni
->   - ***TEAM MEMBER*** | Snow
+>   - ***DEVELOPER*** | Huey
+>   - ***JR*** | Jonni
 
 > Clothing Development
->   - ***TEAM MEMBER*** | Radien
->   - ***TEAM MEMBER*** | Riley
->   - ***TEAM MEMBER*** | Winfrey
+>   - ***SENIOR*** | Riley
+>   - ***DEVELOPER*** | Radien
+>   - ***DEVELOPER*** | Winfrey
 
 > Maps Development
->   - ***SENIOR*** | Capttech
+>   - ***LEAD*** | Capttech
 >   - ***TRIAL*** | Snow
 
 > Leave Of Absence
