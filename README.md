@@ -60,22 +60,24 @@ All of our developers on our team have very unique skills and work hard on makin
 >   - ***SENIOR*** | Conroy
 >   - ***DEVELOPER*** | Maxy
 >   - ***JR*** | Xenvious
+>   - ***JR*** | Joe
 >   - ***TRIAL*** | Kelly
->   - ***TRIAL*** | Joe
+>   - ***TRIAL*** | Jay
 
 > Vehicle Development
 >   - ***SENIOR*** | John
 >   - ***DEVELOPER*** | Huey
->   - ***JR*** | Jonni
+>   - ***DEVELOPER*** | Jonni
 
 > Clothing Development
 >   - ***SENIOR*** | Riley
 >   - ***DEVELOPER*** | Radien
 >   - ***DEVELOPER*** | Winfrey
+>   - ***TRIAL*** | Shalia
 
 > Maps Development
 >   - ***LEAD*** | Capttech
->   - ***TRIAL*** | Snow
+>   - ***JR*** | Snow
 
 > Leave Of Absence
 >   - None
@@ -321,6 +323,10 @@ When there is a bug report that is something that they either didn't understand 
 >    - No Offensive language
 >    - No our of city terms ( Discord Name, Server Name, etc )
 >    - All textures need to be under 2K pixles
+
+> All Clothing
+>    - All textures have to be 1080p
+>    - The only texture that can be above 1080 is the livery
 
 > Import Clothing ( Tebex / Developed )
 >    - Under 50K Poly Count
